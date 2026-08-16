@@ -2,9 +2,9 @@
 
 Bangaram is a smart and customizable desktop assistant built using Python, Eel, HTML/CSS, and JavaScript. It helps you control your PC and mobile with simple voice or typed commands.
 <br>
-From launching apps to making calls and chatting, Iris brings AI and automation to your fingertips.
+From launching apps to making calls and chatting, Bangaram brings AI and automation to your fingertips.
 
-Features<br>
+Features:<br>
 -Control via Voice & Typing<br>
 -Make Phone Calls via Mobile (Android)<br>
 -Pickup & Disconnect Calls<br>
